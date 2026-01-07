@@ -144,7 +144,6 @@ http://localhost:8080/swagger-ui/index.html
 - Role-based authorization
 - Pagination and sorting
 - Unit and integration testing
-- Docker support
 
 
 ### Author
