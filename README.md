@@ -136,7 +136,7 @@ http://localhost:8080/swagger-ui/index.html
 ![image alt](https://github.com/adarshmourya281/sarvika-product-management-assessment/blob/7981d2429756a96e14c06079fe8b2ad4b3801088/Pic2.png)
 
 ### Validation Error Example
-![image alt](https://github.com/adarshmourya281/sarvika-product-management-assessment/blob/bbd47d39b0a1f4e3c3454845f90cfc77ff10487b/Screenshot%20(210).png)
+![image alt](https://github.com/adarshmourya281/sarvika-product-management-assessment/blob/cdff36cd459c67598f2bdb7a7165ac1a00514b48/Pic3.png)
 
 ## Future Enhancements
 
