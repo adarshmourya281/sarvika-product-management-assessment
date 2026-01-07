@@ -58,13 +58,13 @@ src/main/java
 
 ## Product Resource
 
-# Fields
+## Fields
 - `id` – Unique identifier
 - `name` – Product name
 - `description` – Product description
 - `price` – Product price
 
-# Validation Rules
+## Validation Rules
 - Product name must not be null or blank
 - Price must be greater than zero
 - Validation is implemented using annotations such as `@NotBlank`, `@Size`, and `@Positive`
@@ -88,28 +88,6 @@ Authentication is implemented using Spring Security with HTTP Basic Authenticati
 
 JWT-based authentication can be added as a future enhancement.
 
-## API Documentation (Swagger)
-
-Swagger UI is integrated using Springdoc OpenAPI for API documentation and testing.
-
-### Swagger URL
-http://localhost:8080/swagger-ui/index.html
-
-
-
-## How to Run the Application
-
-1. Clone the repository  
-git clone <repository-url>
-2. Create a MySQL database named `productdb`
-3. Update database credentials in `application.properties`
-4. Run the application as a Spring Boot App
-5. Open Swagger UI in the browser
-
-## Configuration
-
-Application-level configuration is managed using the `application.properties` file.
-```md
 ## Configuration
 
 Application-level configuration is managed using the `application.properties` file.
@@ -129,6 +107,36 @@ spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
 
 # Server
 server.port=8080
+```
+
+## How to Run the Application
+
+1. Clone the repository  
+```git clone <repository-url>```
+2. Create a MySQL database named `productdb`
+3. Update database credentials in `application.properties`
+4. Run the application as a Spring Boot App
+5. Open Swagger UI in the browser
+
+
+## API Documentation (Swagger)
+
+Swagger UI is integrated using Springdoc OpenAPI for API documentation and testing.
+
+### Swagger URL
+http://localhost:8080/swagger-ui/index.html
+
+
+## Screenshots
+
+### Swagger UI Overview
+![Swagger UI](screenshots/swagger-ui.png)
+
+### Create Product API
+![Create Product](screenshots/create-product.png)
+
+### Validation Error Example
+![Validation Error](screenshots/validation-error.png)
 
 ## Future Enhancements
 
@@ -138,6 +146,8 @@ server.port=8080
 - Unit and integration testing
 - Docker support
 
-#Author
+
+### Author
 
 Adarsh Mourya
+
