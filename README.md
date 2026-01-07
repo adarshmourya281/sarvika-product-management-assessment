@@ -1,4 +1,4 @@
-# sarvika-product-management-assessment
+# Sarvika-Product-Management-Assessment
 A well-designed Spring Boot RESTful API created as part of a technical assessment.
 This project focuses on building a clean backend application by following best practices 
 such as layered architecture, input validation, secure access, centralized exception 
