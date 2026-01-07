@@ -136,7 +136,7 @@ http://localhost:8080/swagger-ui/index.html
 ![Create Product](screenshots/create-product.png)
 
 ### Validation Error Example
-![Validation Error](screenshots/validation-error.png)
+![image alt](https://github.com/adarshmourya281/sarvika-product-management-assessment/blob/bbd47d39b0a1f4e3c3454845f90cfc77ff10487b/Screenshot%20(210).png)
 
 ## Future Enhancements
 
