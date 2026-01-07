@@ -130,7 +130,7 @@ http://localhost:8080/swagger-ui/index.html
 ## Screenshots
 
 ### Swagger UI Overview
-![Swagger UI](screenshots/swagger-ui.png)
+![image alt](https://github.com/adarshmourya281/sarvika-product-management-assessment/blob/d5c3d4c385834235aa7190ec047c3c0f776617f1/Screenshot%20(206).png)
 
 ### Create Product API
 ![Create Product](screenshots/create-product.png)
