@@ -130,7 +130,7 @@ http://localhost:8080/swagger-ui/index.html
 ## Screenshots
 
 ### Swagger UI Overview
-![image alt](https://github.com/adarshmourya281/sarvika-product-management-assessment/blob/d5c3d4c385834235aa7190ec047c3c0f776617f1/Screenshot%20(206).png)
+![image alt](https://github.com/adarshmourya281/sarvika-product-management-assessment/blob/323f37132dae374e8e8f48e1de13dd3e63ebe47a/Pic1.png)
 
 ### Create Product API
 ![image alt](https://github.com/adarshmourya281/sarvika-product-management-assessment/blob/e91c45f593d21854255794e14c31c4f062d788a6/Screenshot%20(207).png)
