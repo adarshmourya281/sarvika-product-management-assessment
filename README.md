@@ -112,7 +112,7 @@ server.port=8080
 ## How to Run the Application
 
 1. Clone the repository  
-```git clone <repository-url>```
+```git clone https://github.com/adarshmourya281/sarvika-product-management-assessment.git```
 2. Create a MySQL database named `productdb`
 3. Update database credentials in `application.properties`
 4. Run the application as a Spring Boot App
